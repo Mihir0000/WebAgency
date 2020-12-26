@@ -61,7 +61,7 @@
 /*####################### banner ##################*/
 #banner {
     min-height: 90vh;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./image/background-banner.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../image/background-banner.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -167,7 +167,7 @@
 }
 #services {
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./image/services.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../image/services.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -338,7 +338,7 @@
 }
 /* ###########filler contact############# */
 #filler-contact {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./image/filter.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../image/filter.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
